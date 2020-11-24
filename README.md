@@ -1,0 +1,2 @@
+# Distraction-Detection
+The Distraction Detection system uses the facial landmarks technique to point out the optimal points of the mouth and jaw of the person in order to calculate the euclidean disctance between the farthermost points of the same. The threshold of about half of the distance is considered and 10 consecutive frames of not following the the threshold value should give a beep at the end. 
